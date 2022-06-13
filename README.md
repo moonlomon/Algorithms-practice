@@ -13,7 +13,7 @@
 
 - 조건 : n과 m은 각각 1000 이하인 자연수입니다.
 
-제시문
+- 제시문
 
 ```javascript
 process.stdin.setEncoding("utf8");
